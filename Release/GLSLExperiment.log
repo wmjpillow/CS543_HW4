@@ -1,0 +1,13 @@
+﻿  main.cpp
+f:\meijie_wang_hw4\meijie_wang_hw4\glslexperiment\main.cpp(221): warning C4305: '+=': truncation from 'double' to 'float'
+f:\meijie_wang_hw4\meijie_wang_hw4\glslexperiment\main.cpp(226): warning C4305: '-=': truncation from 'double' to 'float'
+f:\meijie_wang_hw4\meijie_wang_hw4\glslexperiment\main.cpp(231): warning C4305: '+=': truncation from 'double' to 'float'
+f:\meijie_wang_hw4\meijie_wang_hw4\glslexperiment\main.cpp(236): warning C4305: '-=': truncation from 'double' to 'float'
+f:\meijie_wang_hw4\meijie_wang_hw4\glslexperiment\main.cpp(242): warning C4305: '-=': truncation from 'double' to 'float'
+f:\meijie_wang_hw4\meijie_wang_hw4\glslexperiment\main.cpp(248): warning C4305: '+=': truncation from 'double' to 'float'
+  Generating code
+  3 of 314 functions ( 1.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  GLSLExperiment.vcxproj -> F:\Meijie_Wang_HW4\Meijie_Wang_hw4\Release\GLSLExperiment.exe
