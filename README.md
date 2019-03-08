@@ -2,4 +2,4 @@
 
 Demo Video: https://www.youtube.com/watch?v=mt6X_ELP3Es
 
-!(HW4_2.gif)
+![ggplot2](HW4_2.gif)
