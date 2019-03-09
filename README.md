@@ -1,4 +1,4 @@
-# CS543_HW4
+# CS543_ComputerGraphics_HW4
 
 Demo Video: https://www.youtube.com/watch?v=mt6X_ELP3Es
 
@@ -6,8 +6,10 @@ In this project I will add more realism to a high resolution model of a cow stat
 ![ggplot2](HW4_2.gif)
 ![ggplot2](HW4.gif)
 
-Summary of program behavior
+Summary of program behavior:
+
 Control your scene using the following keystrokes.
+
 Key A: Toggle shadows ON/OFF. When ON, the shadows show up and when OFF the shadows do not show up. 
 
 Key B Toggle ON/OFF between a scene with grass texture on floor and stone texture on the walls and a plain wall (no texturing). When ON, the floor is textured with grass and the walls are textured with stone. when OFF the floor and walls have no texturing, displaying a gray floor and blue walls. 
