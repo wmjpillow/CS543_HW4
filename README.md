@@ -6,6 +6,8 @@ In this project I will add more realism to a high resolution model of a cow stat
 ![ggplot2](HW4_2.gif)
 ![ggplot2](HW4.gif)
 
+https://web.cs.wpi.edu/~emmanuel/courses/cs543/f18/
+
 Summary of program behavior:
 
 Control your scene using the following keystrokes.
